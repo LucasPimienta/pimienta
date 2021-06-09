@@ -1,0 +1,28 @@
+$color: green;
+$color1: red;
+$color2:rgb(201, 227, 235);
+$color3:  burlywood;
+
+
+@mixin bodyStyle {
+    background-color: cadetblue;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    
+}
+@mixin Flex {
+        display: flex;
+        justify-content: center;
+        margin: 3rem;
+        align-items: center;
+}
+@mixin reset {
+        margin: 0;
+       padding: 0;
+       width: 100%;
+    
+}

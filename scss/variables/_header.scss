@@ -1,0 +1,32 @@
+header {
+    background-color: rgb(201, 227, 235);
+    text-align: center;
+    height: 6rem;
+    h1 {
+        text-align: center;
+        color: $color3;
+        padding-bottom: 10px;
+    
+    }
+    ul {
+        
+        font-size: 20px;
+        padding: 10px;
+        list-style: none;
+        display: inline;
+        
+        padding-bottom: 2px
+ 
+
+    }
+    
+    li {
+        display: inline;
+        padding: 7px 7px;
+        margin: 7px 7px;
+        text-decoration: none;
+
+        
+    }
+}
+@import "variables";

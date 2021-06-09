@@ -1,0 +1,16 @@
+{
+  "name": "entrega-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "g": "^2.0.1",
+    "sass": "^1.34.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
